@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/pipeline-on/static/css/main.4b738920.chunk.css",
-    "main.js": "/pipeline-on/static/js/main.08329b25.chunk.js",
-    "main.js.map": "/pipeline-on/static/js/main.08329b25.chunk.js.map",
+    "main.js": "/pipeline-on/static/js/main.08a1c4ce.chunk.js",
+    "main.js.map": "/pipeline-on/static/js/main.08a1c4ce.chunk.js.map",
     "runtime-main.js": "/pipeline-on/static/js/runtime-main.4c83534f.js",
     "runtime-main.js.map": "/pipeline-on/static/js/runtime-main.4c83534f.js.map",
     "static/js/2.3f04e31a.chunk.js": "/pipeline-on/static/js/2.3f04e31a.chunk.js",
     "static/js/2.3f04e31a.chunk.js.map": "/pipeline-on/static/js/2.3f04e31a.chunk.js.map",
     "index.html": "/pipeline-on/index.html",
-    "precache-manifest.0dca4dc96578eb726c61283faa0dadab.js": "/pipeline-on/precache-manifest.0dca4dc96578eb726c61283faa0dadab.js",
+    "precache-manifest.c4242ed28d7ae688abf0c33735c8b512.js": "/pipeline-on/precache-manifest.c4242ed28d7ae688abf0c33735c8b512.js",
     "service-worker.js": "/pipeline-on/service-worker.js",
     "static/css/main.4b738920.chunk.css.map": "/pipeline-on/static/css/main.4b738920.chunk.css.map",
     "static/js/2.3f04e31a.chunk.js.LICENSE.txt": "/pipeline-on/static/js/2.3f04e31a.chunk.js.LICENSE.txt",
-    "static/media/spfc_lj.jpg": "/pipeline-on/static/media/spfc_lj.6ccc4112.jpg"
+    "static/media/github.jpg": "/pipeline-on/static/media/github.78959443.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4c83534f.js",
     "static/js/2.3f04e31a.chunk.js",
     "static/css/main.4b738920.chunk.css",
-    "static/js/main.08329b25.chunk.js"
+    "static/js/main.08a1c4ce.chunk.js"
   ]
 }
