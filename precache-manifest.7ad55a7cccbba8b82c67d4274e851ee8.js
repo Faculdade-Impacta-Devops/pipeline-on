@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0beab8201ff674e26ac95d2310a72d45",
+    "revision": "7692ee4ad26782d5af23ed895b473d7f",
     "url": "/pipeline-on/index.html"
   },
   {
-    "revision": "e472a46e9b980a6136f9",
+    "revision": "f3e91844bf1d50a9efe0",
     "url": "/pipeline-on/static/css/main.4b738920.chunk.css"
   },
   {
@@ -16,11 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pipeline-on/static/js/2.3f04e31a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e472a46e9b980a6136f9",
-    "url": "/pipeline-on/static/js/main.a08b42f2.chunk.js"
+    "revision": "f3e91844bf1d50a9efe0",
+    "url": "/pipeline-on/static/js/main.a3bc73d8.chunk.js"
   },
   {
     "revision": "84c5e0918852b2533efc",
     "url": "/pipeline-on/static/js/runtime-main.4c83534f.js"
+  },
+  {
+    "revision": "2fc14ae88eb02876522f92b21f203314",
+    "url": "/pipeline-on/static/media/ele-fala-tao-bonito.2fc14ae8.jpeg"
   }
 ]);
