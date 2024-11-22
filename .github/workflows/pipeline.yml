@@ -22,6 +22,11 @@ jobs:
     - run: npm install react-dom
     - run: npm install --save gh-pages
     - run: npm install react-scripts
+
+    - run: npm ci
+    - run: npm run test
+    - run: npm run mutate
+    - run: npm run coverage
     
     - name: Set up Git user
       run: |
@@ -33,9 +38,8 @@ jobs:
         user_email: 'github-actions[bot]@users.noreply.github.com'
         github_token: ${{ secrets.ACTIONS_DEPLOY_ACCESS_TOKEN }}
         repository: ${{ github.repository }}
-    
-    - name: mutate
-      run: npm run mutate
+
+
    
     - name: Build
       run: npm run build
